@@ -1,4 +1,4 @@
-This project was created for ths [test task](https://docs.google.com/document/d/1SH9wTo6KoWoW0ikf6uxBIoeJk31TRs1jvILj3Js_BzA/edit).
+This project was createid for ths [test task](https://docs.google.com/document/d/1SH9wTo6KoWoW0ikf6uxBIoeJk31TRs1jvILj3Js_BzA/edit).
 
 ## Available Scripts
 
